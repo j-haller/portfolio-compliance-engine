@@ -1,0 +1,17 @@
+ticker,isin,sector,country,weight
+AAPL,US0378331005,Technology,USA,0.142
+MSFT,US5949181045,Technology,USA,0.098
+NESN,CH0012221716,Consumer Staples,Switzerland,0.075
+NOVN,CH0012221716,Healthcare,Switzerland,0.063
+BALN,CH0012221716,Tobacco,Switzerland,0.031
+ROG,CH0012221716,Healthcare,Switzerland,0.058
+GOOGL,US02079K3059,Technology,USA,0.089
+AMZN,US0231351067,Consumer Discretionary,USA,0.072
+JPM,US46625H1005,Financials,USA,0.045
+BLK,US09248X1081,Financials,USA,0.038
+SHEL,GB00BP6MXD84,Energy,UK,0.041
+ASML,NL0010273215,Technology,Netherlands,0.055
+LVMH,FR0000121014,Consumer Discretionary,France,0.049
+MC,FR0000121014,Consumer Discretionary,France,0.044
+SAN,ES0113900J37,Financials,Spain,0.036
+UBSG,CH0244767585,Financials,Switzerland,0.065

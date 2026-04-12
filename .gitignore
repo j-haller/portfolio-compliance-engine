@@ -1,0 +1,11 @@
+# C# build output
+api/bin/
+api/obj/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# SQLite database (generated at runtime by db-init)
+db/*.db
